@@ -1,0 +1,16 @@
+[
+{
+  "modid": "AlwaysSprint",
+  "name": "AlwaysSprint",
+  "description": "Always sprint when walking forwards.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/Aetopia/AlwaysSprint",
+  "updateUrl": "",
+  "authorList": ["Aetopia"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
