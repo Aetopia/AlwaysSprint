@@ -1,11 +1,11 @@
 > [!IMPORTANT]
 > Supported versions:
-> - [1.7.10](https://github.com/Aetopia/AlwaysSprint/tree/1.7.10)
-> - [1.8.9](https://github.com/Aetopia/AlwaysSprint/tree/1.8.9)
+> - 1.7.10
+> - 1.8.9
 
 # AlwaysSprint
 Always sprint when walking forwards.
 
 ## Building
 - Install any Java 8 JDK.
-- Run `gradlew build` by switching to the desired version branch.
+- Run `gradlew build` from the preferred version directory.
