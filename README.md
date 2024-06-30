@@ -3,7 +3,6 @@
 > - 1.7.10
 > - 1.8.9
 > - 1.21
->    - Requires the [Fabric API](https://modrinth.com/mod/fabric-api).
 
 # AlwaysSprint
 Always sprint when walking forwards.
