@@ -7,5 +7,5 @@
 Always sprint when walking forwards.
 
 ## Building
-- Install any Java 8/21 JDK.
+- Install any Java 8 JDK.
 - Run `gradlew build` by switching to the desired version branch.
