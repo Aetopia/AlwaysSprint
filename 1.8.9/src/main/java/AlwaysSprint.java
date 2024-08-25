@@ -10,7 +10,6 @@ import net.minecraftforge.fml.common.gameevent.InputEvent.KeyInputEvent;
 
 @Mod(modid = "AlwaysSprint")
 public class AlwaysSprint {
-
     @SubscribeEvent(priority = EventPriority.HIGHEST)
     public void $(KeyInputEvent $) {
         KeyBinding.setKeyBindState(Minecraft.getMinecraft().gameSettings.keyBindSprint.getKeyCode(), true);
